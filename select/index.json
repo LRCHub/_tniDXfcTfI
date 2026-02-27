@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "コスミックムーズ",
+  "base_artist": "ころん",
+  "createdAt": "2026-02-27T14:03:40.716160Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コスミックムーズ",
+      "artist": "ころん",
+      "has_synced": false,
+      "path": "select/pl_01_コスミックムーズ_ころん.txt"
+    }
+  ]
+}
